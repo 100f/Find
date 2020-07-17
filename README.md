@@ -8,7 +8,8 @@
   <img src="https://i.imgur.com/bVzLeu3.png" width="170px"/>  &nbsp &nbsp
   <img src="https://i.imgur.com/gXjUFlZ.gif" alt="find-animated-company-flow" width="170px"/>
 </p>
-
+<br>
+<br>
 ## Sobre o aplicativo :iphone:
 
 Find é um aplicativo onde o comerciante poderá anunciar sua empresa ou marca, e além disso, poderá gerir seu lucro diário através de uma planilha bem simples e interativa. Os clientes poderão agendar ou retirar um produto ou serviço. Os produtos podem ser entregues por Delivery, ou até mesmo podendo ser retirados no estabelecimento. Já os serviços podem ser agendados, para evitar aglomerações. Nosso objetivo é propor uma ótima experiência para o usuário, tanto os comerciantes, quanto os clientes. Além disso, queremos passar uma sensação de segurança para ambos, de modo que não se sintam receosos ao utilizar o aplicativo.
