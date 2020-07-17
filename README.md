@@ -1,5 +1,12 @@
 <p align="center">
-<img src="./Backend/uploads/find-anim-logo.gif" alt="find-logo" width="200px"/>
+  <img src="./Backend/uploads/find-anim-logo.gif" alt="find-logo" width="200px"/>
+</p>     
+<br>
+<br>
+<p align="center">
+  <img src="https://i.imgur.com/tMbuGbF.gif" alt="find-animated-user-flow" width="170px"/>  &nbsp &nbsp
+  <img src="https://i.imgur.com/bVzLeu3.png" width="170px"/>  &nbsp &nbsp
+  <img src="https://i.imgur.com/gXjUFlZ.gif" alt="find-animated-company-flow" width="170px"/>
 </p>
 
 ## Sobre o aplicativo :iphone:
